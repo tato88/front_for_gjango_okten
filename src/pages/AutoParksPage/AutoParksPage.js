@@ -8,4 +8,4 @@ const AutoParksPage = () => {
     );
 };
 
-export default AutoParksPage;
+export {AutoParksPage};
